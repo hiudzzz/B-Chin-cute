@@ -45,7 +45,7 @@ function generateMessage(noCount) {
     "Không Bao Giờ",
     "Híu bicc lỗi rồi ạa",
     "Mong Chin tha lỗi choo Híu :((",
-    "Híu saii rồi , tớ đáng trách ạ",
+    "Híu saii rồi, Híu xinn lũi mòo",
     "Bé đừng giận anhh nữa nhoo",
     "Tớ iu Chin nhắm nhunnn đóoooo",
   ];
